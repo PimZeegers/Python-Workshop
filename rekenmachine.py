@@ -43,4 +43,5 @@ if kies == '4':
   print(num1, "-", num2, "=", subtract(num1, num2))
 
 
-#werkt wel, nog niet helemaal compleet 
+#werkt wel, nog niet helemaal compleet.
+#Volgorde klopt niet 

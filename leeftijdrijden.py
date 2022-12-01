@@ -5,3 +5,4 @@ while True:
     else:print('Je mag autorijden')
 
     
+     #Punten voor gekregen

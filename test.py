@@ -6,7 +6,7 @@ while True:
         print("Toegang")
     else:
         print("Geen Toegang")
-        break
+        
 
 
 
