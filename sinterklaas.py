@@ -11,3 +11,5 @@ while True:                                                             #-- Zorg
         lijst.append(cadeautjes)                                        #-- zorgt ervoor dat alles uit de variable cadeautjes in de variable lijst wordt toegevoegd  
 
 
+#.append = toevoegen aan
+#.sort = sorteren, in volgorde zetten

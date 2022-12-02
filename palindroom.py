@@ -6,3 +6,4 @@ else:                                                     #-- Als het bovenstaan
 
 
         # IS AF
+#Punten voor gekregen
